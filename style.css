@@ -1,0 +1,23 @@
+body{
+	text-align:center;
+	color: green;
+	background-color: white;
+}
+
+#word{
+	color: red;
+	text-decoration: underline;	
+}
+
+#letters{
+
+	margin-left: auto;
+	margin-right: auto;
+	margin: 5px;
+	padding: 5px;	
+	
+}
+
+#letters a{
+	color: red;
+}
